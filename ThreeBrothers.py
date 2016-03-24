@@ -40,3 +40,4 @@ for i in range(n):
         print("Yes")
     else:
         print("No")
+# A conflicting comment for git merge testing
